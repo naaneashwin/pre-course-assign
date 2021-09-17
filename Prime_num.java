@@ -3,7 +3,7 @@ package Precourse;
 public class Prime_num {
 
 	public static void main(String[] args) {
-		int num = 4265353;
+		int num = 4625489;
 		int m = num/2;
 		boolean flag = false;
 		int i = 2;
